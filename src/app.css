@@ -1,0 +1,5 @@
+#root {
+    display: grid !important;
+    grid-template-rows: auto 1fr auto !important;
+    min-height: 100vh;
+}
